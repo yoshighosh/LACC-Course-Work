@@ -14,3 +14,6 @@ Basic intro to how Machine Learning and Artificial Intelligence is used in the w
 
 > Mini Project 4
 - Classify image using TensorFlow and a custom neural network
+
+> PDF Presentation
+- This was the presentation used to teach this module. Includes basic outlines for the exercises
